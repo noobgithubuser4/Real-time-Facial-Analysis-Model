@@ -4,7 +4,7 @@ Real-Time Age, Gender & Ethnicity Prediction Model
 
 -Introduction
 
-
+**PS: I edited the jupyter notebook a bit to make the project easier to implement as i realized it one had to run all the cells to get the project to run, now we need to run only four cells. So pls checkout the jupyter notebook in this github repo instead of the one provided in the google form.**
 
 Facial recognition and analysis is a highly useful and evolving sub-group of Computer Vision and Machine Learning in general. Use of CNN has resulted in extremely accurate prediction/classification models. This has various applications from unlocking your smartphone to high-tech security systems.
 
